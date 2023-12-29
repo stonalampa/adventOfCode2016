@@ -1,0 +1,15 @@
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/bin/Debug/net8.0/AdventOfCode2016
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/bin/Debug/net8.0/AdventOfCode2016.deps.json
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/bin/Debug/net8.0/AdventOfCode2016.runtimeconfig.json
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/bin/Debug/net8.0/AdventOfCode2016.dll
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/bin/Debug/net8.0/AdventOfCode2016.pdb
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.GeneratedMSBuildEditorConfig.editorconfig
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.AssemblyInfoInputs.cache
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.AssemblyInfo.cs
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.csproj.CoreCompileInputs.cache
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.sourcelink.json
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.dll
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/refint/AdventOfCode2016.dll
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.pdb
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/AdventOfCode2016.genruntimeconfig.cache
+/home/stole/Workspace/adventOfCode2016/AdventOfCode2016/obj/Debug/net8.0/ref/AdventOfCode2016.dll
