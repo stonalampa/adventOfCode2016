@@ -66,7 +66,7 @@ namespace AdventOfCode
 
                         if (visitedLocations.Contains(currentLocation))
                         {
-                            Console.WriteLine($"Part 2 - Distance: {Math.Abs(startingX - currentX) + Math.Abs(startingY - currentY)}");
+                            Console.WriteLine($"Part 2 - Distance: {Math.Abs(currentX) + Math.Abs(currentY)}");
                             return;
                         }
 
