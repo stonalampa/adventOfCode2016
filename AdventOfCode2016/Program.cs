@@ -47,6 +47,9 @@
                     twoFactorAuthentication.Part2();
                     break;
                 case 9:
+                    ExplosivesInCyberspace explosivesInCyberspace = new ExplosivesInCyberspace();
+                    explosivesInCyberspace.Part1();
+                    explosivesInCyberspace.Part2();
                     break;
                 case 10:
                     break;
