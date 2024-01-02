@@ -86,11 +86,19 @@
             }
         }
 
-        public static void Main()
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a number from 1 to 25:");
+            string input;
 
-            string input = Console.ReadLine() ?? "";
+            if (args.Length > 0)
+            {
+                input = args[0];
+            }
+            else
+            {
+                Console.WriteLine("Please enter a number from 1 to 25:");
+                input = Console.ReadLine() ?? "";
+            }
 
             if (!int.TryParse(input, out int day) || day < 1 || day > 25)
             {
